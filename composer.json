@@ -1,0 +1,24 @@
+{
+    "name":        "bmatzner/leaflet-bundle",
+    "type":        "symfony-bundle",
+    "description": "Leaflet Bundle for Symfony2",
+    "keywords":    ["leaflet", "javascript", "mapping", "symfony"],
+    "homepage":    "http://leafletjs.com",
+    "license":     "MIT",
+    "authors":     [
+        {
+            "name":     "Bernd Matzner",
+            "email":    "bernd@matznermatzner.de",
+            "homepage": "http://berndmatzner.de"
+        }
+    ],
+    "require":     {
+        "symfony/framework-bundle": ">=2.1"
+    },
+    "autoload":    {
+        "psr-0": {
+            "Bmatzner\\LeafletBundle": ""
+        }
+    },
+    "target-dir":  "Bmatzner/LeafletBundle"
+}
