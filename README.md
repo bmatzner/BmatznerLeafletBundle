@@ -2,7 +2,7 @@ Leaflet Bundle for Symfony2
 
 ## Current Version
 
-Leaflet v0.4.5
+Leaflet v0.5.0
 
 ## Installation
 
