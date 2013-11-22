@@ -2,7 +2,7 @@ Leaflet Bundle for Symfony2
 
 ## Current Version
 
-Leaflet v0.6.4
+Leaflet v0.7.0
 
 ## Installation
 
@@ -14,7 +14,7 @@ Leaflet v0.6.4
 {
     "require": {
 		// ...
-        "bmatzner/leaflet-bundle": "*"
+        "bmatzner/leaflet-bundle": "~0.7"
     }
 }
 ```
